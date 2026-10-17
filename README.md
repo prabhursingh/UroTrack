@@ -47,4 +47,4 @@ A clinical decision support system (CDSS) that brings together the data a clinic
 
 ## 👤 Author
 
-**Dr. Prabhu Raj Singh** — Specialist Dentist & Health Informatician · [LinkedIn](https://www.linkedin.com/in/prabhu-raj-singh-9a926a20)
+**Prabhu Raj Singh** — Specialist Dentist & Health Informatician · [LinkedIn](https://www.linkedin.com/in/prabhu-raj-singh-9a926a20)
